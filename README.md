@@ -1,4 +1,4 @@
-# aoc2025
+# Advent of Code 2025 Solutions, using Typescript with 0 type safety
 
 To install dependencies:
 
