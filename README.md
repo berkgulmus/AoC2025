@@ -1,5 +1,7 @@
-# Advent of Code 2025 Solutions, using Typescript with 0 type safety
+# Advent of Code 2025 Solutions 
 
+- Typescript with 0 type safety
+  
 To install dependencies:
 
 ```bash
